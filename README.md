@@ -1,7 +1,6 @@
 yonacoin integration/staging tree
 ================================
 
-http://www.yonacoin.org
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
@@ -19,7 +18,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the yonacoin client sofware, see http://www.yonacoin.org.
+the yonacoin client sofware.
 
 License
 -------
